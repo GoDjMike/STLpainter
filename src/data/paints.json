@@ -1,0 +1,28 @@
+{
+  "citadel": {
+    "name": "Citadel",
+    "colors": [
+      { "name": "Abaddon Black", "hex": "#000000" },
+      { "name": "Mephiston Red", "hex": "#991115" },
+      { "name": "Macragge Blue", "hex": "#2D567C" },
+      { "name": "Caliban Green", "hex": "#005221" },
+      { "name": "Ushabti Bone", "hex": "#EFD9A8" },
+      { "name": "Leadbelcher", "hex": "#393939" },
+      { "name": "Retributor Armour", "hex": "#B48F36" },
+      { "name": "Rakarth Flesh", "hex": "#B9ADA1" }
+    ]
+  },
+  "vallejo": {
+    "name": "Vallejo",
+    "colors": [
+      { "name": "Black", "hex": "#000000" },
+      { "name": "Scarlet Red", "hex": "#940008" },
+      { "name": "Royal Blue", "hex": "#29397B" },
+      { "name": "Dark Green", "hex": "#005221" },
+      { "name": "Bone White", "hex": "#EFD9A8" },
+      { "name": "Gunmetal", "hex": "#393939" },
+      { "name": "Old Gold", "hex": "#B48F36" },
+      { "name": "Pale Flesh", "hex": "#B9ADA1" }
+    ]
+  }
+}
